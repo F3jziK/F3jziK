@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fejzik</h1>
 <h3 align="center">A passionate developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcodeing%3Fsort%3Drelevant&psig=AOvVaw0pRANTMg-FeFFBEhh-f9sT&ust=1702493623510000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDzwZTJioMDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fejzik&label=Profile%20views&color=0e75b6&style=flat" alt="fejzik" /> </p>
 
